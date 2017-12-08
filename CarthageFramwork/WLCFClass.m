@@ -9,7 +9,7 @@
 #import "WLCFClass.h"
 
 @implementation WLCFClass
-- (void)fun
+- (void)function
 {
     NSLog(@"hello world");
 }

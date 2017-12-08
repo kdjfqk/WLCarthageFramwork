@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface WLCFClass : NSObject
-- (void)fun;
+- (void)function;
 @end
